@@ -1,5 +1,6 @@
 {
     "origins": [
-        "https://jakubmeysner.com"
+        "https://jakubmeysner.com",
+        "http://localhost:1313"
     ]
 }
